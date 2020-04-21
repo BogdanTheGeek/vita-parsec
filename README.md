@@ -1,0 +1,5 @@
+# vita-parsec
+A parsec client for the PS Vita
+
+WOrK IN PROGRESS
+WORK HAS STOPPED DUE TO STATIC LIBRAIRES FROM PARSEC
